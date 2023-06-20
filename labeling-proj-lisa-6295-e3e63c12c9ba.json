@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "labeling-proj-lisa-6295",
+  "private_key_id": "e3e63c12c9baed9592746e04ba6f4667c8cd8ed1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCvgxGC2UbL2VwM\nwKYDnBk0nekmnevEaxK/0awRla0Eg4yP0ssaGmb9VW8UY/SLAcgbkcgWqVO0iO4p\n4xaAnIVNcbr10cxbcviUId6Q0VYJpC/VT7XXT8DXndtLVsNQo1Btvjr1P54HqYSr\nP7m056LMnsywOqbutaq//+8I+iQrqy0b3I/8oX4yKMKurCWLauQk74l6xxm7ngln\nWaI+PtD0Oet2SnFgETYIWzd18C05sb74TeuD3mfrcKq07Fxcm7scggN5ITndLRwk\nWcQjBsz5iKkja98PA3T5ykSCnPvnIyX8gdEYZmv6AWvrE5m5INdybAk2Cf8jdwDe\nBkZ/rqbFAgMBAAECggEACPx5e40bYlmNLHv6pAmsgrSpGNiSFzryOU8Hc9kJhEcl\n/cEps/rxFfx3VQBvJ2TedYbnyz09M2ulYhCl+MzKyHXPwEFPKMmAr7jyN9D4CkNV\nTaMoqM8FDSUgcsGM+4Z5Gj1YsHDi6vqDd+8p13jarYZd7ZH7NRKpHO6CMx/3lSK3\nI5ZQwzqHpRWb0Ot7kmtNUSbkyLiNQnSnm73QCZc3z2k03MeJ/OH4GGfZBD1uv8kf\ntXCf1wVteI3KaeoYVkrkRYceEoIaZ9fBysTNQPoFRaYcgAikGhJaWKwAZbE84L8p\npHx/CkAo9/wCLxCf91dKI3AOWKDDkIIuvH1zziXIgQKBgQDymy/uujwbIjMY1v4P\nv7uCFv6S12/ZA8SDr6oArnAAYBwvriuc2QRY2CYKmrjoVM/9p+rdiJQKZFEVnTr+\nCmgdaj1vsQR1OuYB4drhFdkiPDUWwRIEpxwBAipLLQhqL7+0XYeRQovu04s6QSzP\nHAhKRHf6d7DxP8He0vqTugS9wQKBgQC5M59KSElSJ6EP/wY0KuhukelWy9Ocf2ZQ\nx0F7O2ig2QHT5CpePeONn+eNqj1pWGYMCa0mzcLyTMcV2+D0s9a5jKA8Oe15JX0b\nhEC06UzGf0VyQQAVoYIuRaVPJhPvNtUNUqyenDL4u7rh+GvX7eiQoiudeRqYEqWW\nuDczZNdyBQKBgEpCLh3Ia3Vytmk4BXQUn/RlzW5s+xNWD+Su9D5ZJnc28+m0Si0s\nUCRRpPNCAK88pp1htIYys/2qTxdqlRAFZ3D5f+ycJl0rthOFalXTNi9Ado+McVNz\nQyMb4o44LocyLl+q8UAJOoPTxJ4ELQ8H6ZGx+3dzA3oUpebqdUCag7EBAoGADoIa\nwmjzRXpRRb2GsOODndXUX7ZL94CLdVyGpq66vY8Cc6T2JLfYcanLK+/gK7Z/GAZS\nCC4qTWzyU6YL8197PMHlc5JeJhVnvZYYs5NrLkmeGRs6dHdYiWNvVcn32c+D1S1a\n1HoMDCw4sacSW7IJe/sYS5fHG46qZio8OMx3jDkCgYAP+KLnnVwXQW4f6x0LsG/4\nkrvUdwJdXRvJxI+cKxzgv1uW89A4J6lUjWS1/eDc7qb5MoQiwTH95DFeN3Xx0IMz\nLPSyZM6lgu/VU8rEjC1zd1i1lepUxR6ANBWnJZIv96PNo3W1eo6M5pi1PTRJVyvB\nZnIbYFIh1+l/ZaXzA5ASeQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "labeling-proj-lisa-6295@appspot.gserviceaccount.com",
+  "client_id": "104934963615425980922",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/labeling-proj-lisa-6295%40appspot.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
